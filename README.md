@@ -149,8 +149,6 @@ http://127.0.0.1:8000/
 
 ## 📸 Screenshots
 
-Project screenshots include:
-
 ### 🏠 Home Page
 ![Home Page](screenshots/home.png)
 
