@@ -150,35 +150,24 @@ http://127.0.0.1:8000/
 ## 📸 Screenshots
 
 Project screenshots include:
-## 📸 Screenshots
 
 ### 🏠 Home Page
-
 ![Home Page](screenshots/home.png)
 
 ### 🛍️ Product Listing
-
 ![Product Listing](screenshots/products.png)
 
 ### 🛒 Cart Page
-
 ![Cart Page](screenshots/cart.png)
 
 ### 🔐 Login Page
-
 ![Login Page](screenshots/login.png)
 
 ### 📦 Checkout Page
+![Checkout Page](screenshots/checkout.png)
 
-![Checkout](screenshots/checkout.png)
-* Home Page
-* Product Listing Page
-* Product Details Page
-* Shopping Cart Page
-* Checkout Page
-* Login/Register Page
-* Admin Panel
-
+### ⚙️ Admin Panel
+![Admin Panel](screenshots/admin.png)
 ---
 
 ## 🎯 Learning Outcomes
