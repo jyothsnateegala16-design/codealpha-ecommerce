@@ -149,23 +149,28 @@ http://127.0.0.1:8000/
 
 ## 📸 Screenshots
 
+## 📸 Screenshots
+
 ### 🏠 Home Page
-![Home Page](screenshots/home.png)
+![Home Page](./screenshots/home.png)
 
 ### 🛍️ Product Listing
-![Product Listing](screenshots/products.png)
+![Product Listing](./screenshots/product.png)
 
 ### 🛒 Cart Page
-![Cart Page](screenshots/cart.png)
+![Cart Page](./screenshots/cart.png)
 
 ### 🔐 Login Page
-![Login Page](screenshots/login.png)
+![Login Page](./screenshots/login.png)
+
+### 📝 Registration Page
+![Registration Page](./screenshots/registration.png)
 
 ### 📦 Checkout Page
-![Checkout Page](screenshots/checkout.png)
+![Checkout Page](./screenshots/checkout.png)
 
 ### ⚙️ Admin Panel
-![Admin Panel](screenshots/admin.png)
+![Admin Panel](./screenshots/admin.png)
 ---
 
 ## 🎯 Learning Outcomes
